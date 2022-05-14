@@ -26,6 +26,7 @@ ResultSet resultSet = null;
 <table align="center" cellpadding="5" cellspacing="5" border="1">
 <tr>
 
+  //table layout
 </tr>
 <tr bgcolor="#A52A2A">
 <td><b>Notice Id</b></td>
