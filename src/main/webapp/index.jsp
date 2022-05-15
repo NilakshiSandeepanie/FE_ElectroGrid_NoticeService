@@ -45,11 +45,11 @@ catch(Exception e)
 			margin-right: 80px;
 			margin-left: 80px;
 			padding: 10px;
-			border: 5px solid blue;
+			border: 5px solid #1F456E;
 			background-image: url("notice.png");
 		}
 		.add a{
-			 background-color: blue;
+			 background-color: #1F456E;
             border: none;
             text-decoration: none;
             color: white;
@@ -118,7 +118,7 @@ catch(Exception e)
 			<tr>
 				<th>NOTICE ID</th>
 				<th>MESSAGE</th>
-				<th>DURATIONS</th>
+				<th>DURATION</th>
 				<th>AUTHORISED PARTY</th>
 				<th>HEADING</th>
 				<th>ACTION</th>
