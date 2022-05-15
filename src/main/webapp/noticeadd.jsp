@@ -193,7 +193,7 @@ catch(Exception e)
 				</tr>
 				
 				<tr>
-					<td><b>MESSAGFE</b></td>
+					<td><b>MESSAGE</b></td>
 					<td><input type="text" name="txt_message"></td>
 				</tr>
 				
