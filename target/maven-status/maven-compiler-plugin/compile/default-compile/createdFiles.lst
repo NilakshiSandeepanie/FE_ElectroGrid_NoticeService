@@ -1,0 +1,8 @@
+org\noticeservice\notice\resources\NoticeResource.class
+org\noticeservice\notice\db\DBUtil$1.class
+org\noticeservice\notice\db\DBType.class
+org\noticeservice\notice\MyResource.class
+org\noticeservice\notice\db\DBUtil.class
+org\noticeservice\notice\model\NoticeManager.class
+org\noticeservice\notice\service\NoticeService.class
+org\noticeservice\notice\beans\Notice.class
