@@ -85,7 +85,7 @@ catch(Exception e)
 		}
 		td a{
 		
-	  		color: blue;
+	  		color: #1F456E;
 	  		text-decoration: none;
 		}
 		
